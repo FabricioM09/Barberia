@@ -18,33 +18,33 @@ export class GalleryComponent implements OnInit {
 
   
   galleryRef.addImage({
-    src: '../../assets/cortes/4.jpg',
-    thumb: '../../assets/cortes/4.jpg',
+    src: 'assets/cortes/4.jpg',
+    thumb: 'assets/cortes/4.jpg',
     title: 'Some title'
   });
   galleryRef.addImage({
-    src: '../../assets/cortes/3.jpg',
-    thumb: '../../assets/cortes/3.jpg',
+    src: 'assets/cortes/3.jpg',
+    thumb: 'assets/cortes/3.jpg',
     title: 'Some title'
   });
   galleryRef.addImage({
-    src: '../../assets/cortes/2.jpg',
-    thumb: '../../assets/cortes/2.jpg',
+    src: 'assets/cortes/2.jpg',
+    thumb: 'assets/cortes/2.jpg',
     title: 'Some title'
   });
   galleryRef.addImage({
-    src: '../../assets/cortes/1.jpg',
-    thumb: '../../assets/cortes/1.jpg',
+    src: 'assets/cortes/1.jpg',
+    thumb: 'assets/cortes/1.jpg',
     title: 'Some title'
   });
   galleryRef.addImage({
-    src: '../../assets/cortes/5.jpg',
-    thumb: '../../assets/cortes/5.jpg',
+    src: 'assets/cortes/5.jpg',
+    thumb: 'assets/cortes/5.jpg',
     title: 'Some title'
   });
   galleryRef.addImage({
-    src: '../../assets/cortes/6.jpg',
-    thumb: '../../assets/cortes/6.jpg',
+    src: 'assets/cortes/6.jpg',
+    thumb: 'assets/cortes/6.jpg',
     title: 'Some title'
   });
 
