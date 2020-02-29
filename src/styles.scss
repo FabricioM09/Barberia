@@ -44,7 +44,7 @@ $tipografy: 'Rum Raisin', sans-serif;
 .img-principal{
     position: relative;
     width: 100%; 
-    height: auto;
+    height: 50%;
     
 }
 
@@ -200,10 +200,7 @@ $tipografy: 'Rum Raisin', sans-serif;
         font-size: 15px;
         
     }
-    .logo-schedule{
-        width: 35% !important;
-        height: 100%;
-    }
+   
     
 }
 
@@ -231,6 +228,12 @@ $tipografy: 'Rum Raisin', sans-serif;
         width: 35%;
         height: 100%;
     }
+    
+    .title-sobre-nosotros{
+        width: 50%;
+        height: 25%;
+        top: -25%;
+     }
 }
 
 
@@ -248,7 +251,7 @@ $tipografy: 'Rum Raisin', sans-serif;
      }
 
      .title-sobre-nosotros{
-        width: 40%;
+        width: 50%;
         height: 25%;
         top: -25%;
      }
